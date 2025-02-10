@@ -1,0 +1,27 @@
+1. Had a quick review of:
+    --What a browser is and how it works.
+    --The basics of HTML and CSS.
+    --The difference between HTTP and HTTPS.
+    --Various HTTP request/response status codes.
+    --What CORS is.
+    --SOLID principles and coding standards.
+    --Components of a browser.
+    --Browser APIs.
+
+2. Had a meeting with Amandeep Sir and covered the following topics:
+
+    --Basics of HTML and CSS
+    --Various HTTP request/response status codes
+    --Browser APIs
+    --Git/GitHub basics
+
+3. Studied Git/GitHub.
+
+4. Practiced and reviewed some Kotlin questions.
+
+
+
+
+
+
+
