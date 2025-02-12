@@ -1,0 +1,5 @@
+1. Had a quick review of given tasks from Git/GitHub.
+
+2. Practiced basic HTML code.
+
+3. Read and practiced some Kotlin concepts.
