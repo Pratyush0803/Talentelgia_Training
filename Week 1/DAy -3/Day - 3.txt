@@ -1,0 +1,5 @@
+1. Read JavaScript Documentation. 
+2. Read some OOP concepts.
+3. Read and practiced some Kotlin concepts.
+4. Practiced basic HTML concepts.
+   
