@@ -1,0 +1,12 @@
+1. Studied about DOM :
+
+    --What is Dom?
+    --What are DOM events.
+
+2. Practiced Git / GitHub :
+
+    --push, pull and merge
+
+3. Studied JavaScript
+
+4. Practice OOPs scenario based Questions.
