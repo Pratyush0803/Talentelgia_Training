@@ -13,6 +13,12 @@
         android:theme="@style/Theme.UserManagementSystem"
         tools:targetApi="31">
         <activity
+            android:name=".Details_Popup"
+            android:exported="false" />
+        <activity
+            android:name=".Edit_Box"
+            android:exported="false" />
+        <activity
             android:name=".User_Details"
             android:exported="false" />
         <activity
