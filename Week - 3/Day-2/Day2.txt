@@ -1,0 +1,12 @@
+1. Had a review about given task:
+           -- Loops
+           -- Conditional statements
+           -- Constructor
+           -- Data types
+
+2. Read about keywords.
+
+3. Practiced beginner Questions in Kotlin about:
+           -- Classes and Objects
+           -- Inheritance
+           -- Polymorphism
