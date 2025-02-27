@@ -5,8 +5,3 @@
 3. Practiced Abstraction questions on both Note Book and IDE.
 
 4. Read about Generic type.
-
-
-Thanks and regards,
-Pratyush Kumar Jena
-
