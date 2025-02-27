@@ -1,0 +1,11 @@
+1. Reviewed OOP concepts.
+
+2. Practiced intermediate encapsulation questions on both notebook and IDE.
+
+3. Practiced intermediate inheritance questions on both notebook and IDE.
+
+4. Practiced intermediate polymorphism questions on both notebook and IDE.
+
+5. Practiced intermediate abstraction questions on both IDE and notebook.
+
+6. Read about generic types.
