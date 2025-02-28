@@ -1,0 +1,7 @@
+1. Had a review about given task:
+           -- OOPs concepts
+
+2. Read and practiced about OOPs concepts in Kotlin:
+              -- classes and Objects
+              -- Constructors
+              -- Polymorphism
