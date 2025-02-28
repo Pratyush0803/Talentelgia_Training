@@ -1,0 +1,9 @@
+1. Reviewed OOP concepts.
+
+2. Practiced advanced encapsulation questions on both notebook and IDE.
+
+3. Practiced advanced inheritance questions on both notebook and IDE.
+
+4. Practiced advanced polymorphism questions on both notebook and IDE.
+
+5. Practiced Pattern questions.
