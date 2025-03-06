@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_up_page">Sign Up Page</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up_page_txt">Sign Up Page</string>
+    <string name="name">Name</string>
+    <string name="sign_up_txt">Sign Up</string>
+    <string name="login_app">Login App</string>
+    <string name="pratyush_kumar_jena">Pratyush Kumar Jena</string>
+    <string name="pratyush_gmail_com">pratyush@gmail.com</string>
+</resources>
