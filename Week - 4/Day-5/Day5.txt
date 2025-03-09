@@ -1,0 +1,14 @@
+1. Studied Android Navigation Components:
+
+              -- App Bars: Bottom
+              -- App Bars: Top
+              -- Backdrop
+              -- Banners
+              -- Bottom Navigation
+              -- Tabs
+
+2. Implemented Bottom Navigation Bar in the Login Page App.
+
+3. Implemented Fragments in the Login Page App.
+
+4. Studied about Services.
