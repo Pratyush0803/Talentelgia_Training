@@ -1,0 +1,3 @@
+Added Implicit Intent for email.
+Added Phone number in the Recyclerview and added Implict intent to it.
+Removed default Splash Screen from the Login Page App
