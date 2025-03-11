@@ -1,0 +1,17 @@
+Learned about Dart, including:
+    -Variables
+    -Null Safety
+    -Different Types of Operators
+    -Standard Input and Output
+    -Data Types:
+        --Numbers:
+            ---int
+            ---double
+            ---num
+        --Strings
+        --Boolean
+        --Lists
+        --Maps
+    -Parsing in Dart.
+    -Practiced some questions on data types.
+
