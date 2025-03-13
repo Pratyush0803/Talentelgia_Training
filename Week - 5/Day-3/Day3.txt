@@ -1,0 +1,22 @@
+Had a review of previous topics.
+
+Studied about Control flow Statement:
+  if Statement
+
+  if else Statement
+
+  if else-if Statement
+
+  Switch case Statement
+
+  for Loop
+
+  for..in Loop
+
+  while Loop
+
+  do while Loop
+
+Studied about Set.
+
+Studied about OOPs concepts in dart.
