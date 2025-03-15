@@ -1,0 +1,9 @@
+• Had a review of previous topis.
+
+• Studied about Widgets:
+     ◦Container
+     ◦Row
+     ◦Column
+     ◦Stack
+     ◦Expanded Widget
+        • Flex
