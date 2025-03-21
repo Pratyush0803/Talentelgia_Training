@@ -1,0 +1,7 @@
+Creating UI of Sign Up screen of movie app.
+
+Learning how to add validation to the Sign Up Page
+
+Adding validation to the Sign Up Page.
+
+Adding login with google option to movie app.
