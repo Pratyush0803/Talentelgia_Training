@@ -1,0 +1,7 @@
+1.Started making Movie App
+
+2.Added splash screen to the app.
+
+3.Made on_boarding screen.
+
+4.Added navigator to the app.

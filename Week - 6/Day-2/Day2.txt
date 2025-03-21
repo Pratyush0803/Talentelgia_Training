@@ -1,0 +1,7 @@
+1.Added gridview to the on_board_screen.
+
+2.Made all screen Responsive.
+
+3.Made get_started_screen.
+
+4.Added Firebase to the Movie App.

@@ -1,0 +1,10 @@
+Making the Login and Sign Up page UI:
+       - Added image for background of the app.
+       - Added stack and container where stored the main text.
+       - Added Column where i placed Two buttons for Sign Up and Login with 
+          Google.
+       - Added google logo in the Login with google button and added login and 
+          skip text.
+       - Added Terms and conditions Text.
+       - Resolved the UI Errors
+       - Added the shadow effect to the container which is holding all the text and buttons.
