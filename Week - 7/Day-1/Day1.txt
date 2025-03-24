@@ -1,0 +1,7 @@
+Made changes to the OOP PPT.
+
+Had a PPT session with Interns about OOP concepts.
+
+Leaning how to add Email and Password login to the Movie app.
+
+Studied about Named Routing.
