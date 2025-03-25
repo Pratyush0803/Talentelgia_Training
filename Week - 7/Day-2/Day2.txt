@@ -1,0 +1,7 @@
+Learned about Named Routing.
+
+Learned about Provider.
+
+Learned about State Management.
+
+Made a simple counter application using Provider.
