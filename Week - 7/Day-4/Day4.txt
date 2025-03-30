@@ -1,0 +1,7 @@
+Added functionalities to To-Do List App.
+
+Updated UI of the App.
+
+Added Sharedpreference for Get started screen.
+
+Learning about SQFlite
