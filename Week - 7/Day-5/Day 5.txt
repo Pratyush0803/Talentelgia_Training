@@ -1,0 +1,7 @@
+Learned About APIs.
+
+Created a Json server API.
+
+Integrated API to the app.
+
+Added Named Route to The Movie App.
