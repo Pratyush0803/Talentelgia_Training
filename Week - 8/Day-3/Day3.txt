@@ -1,0 +1,5 @@
+Studied about Database.
+
+Studied about Dio Api.
+
+Studied about SQFlite.
