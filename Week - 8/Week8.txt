@@ -1,0 +1,33 @@
+Day 1:
+
+Made UI to show API data for Movie Application.
+
+Day 2:
+
+Had a review about all the PPTs.
+
+Started learning Clean Architecture.
+
+Started learning about Dio package.
+
+Day 3:
+
+Studied about Database.
+
+Studied about Dio API.
+
+Studied about SQFlite.
+
+Day 4:
+
+Studied about SQFlite.
+
+Made ToDo app using SQFlite.
+
+Studied about Hive.
+
+Day 5:
+
+Made Note app using SQFlite.
+
+Learned about Clean Architecture.

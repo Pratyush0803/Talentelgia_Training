@@ -1,0 +1,3 @@
+Made Note app using SQFlite
+
+Learned about Clean Architecture..
