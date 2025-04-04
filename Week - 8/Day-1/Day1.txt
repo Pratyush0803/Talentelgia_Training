@@ -1,0 +1,1 @@
+Made UI to show API data for Movie Application.

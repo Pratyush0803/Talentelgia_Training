@@ -1,0 +1,5 @@
+Studied about SQFlite.
+
+Made a small app using SQFlite.
+
+Studied about Hive.
