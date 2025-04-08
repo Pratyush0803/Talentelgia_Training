@@ -1,0 +1,5 @@
+Studying about what features a E-Commerce application must have(User App,Seller App and Delivery App).
+
+Added user and user_type details to firestore.
+
+Made a dummy app for send and retrieve data from firestore.
