@@ -1,0 +1,3 @@
+Added Images to firestore.
+
+Made part of the home page using clean architecture and bloc.
