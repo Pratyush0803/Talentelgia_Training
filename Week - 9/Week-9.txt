@@ -1,0 +1,30 @@
+Day 1:
+
+Studied Bloc.
+
+Made a Counter Application using Bloc.
+
+Day 2:
+
+Studied what features an E-Commerce application should have (User App, Seller App, and Delivery App).
+
+Added user and user_type details to Firestore.
+
+Created a dummy app to send and retrieve data from Firestore.
+
+Day 3:
+
+Updated the dummy user app to retrieve data from Firestore.
+
+Created the Home Screen of the Blibkit Shopping App.
+
+Day 4:
+
+Added image links to Firebase Firestore.
+
+Built part of the homepage using Clean Architecture and Bloc.
+
+Day 5:
+
+Completed the Home Screen of the E-Commerce App using Clean Architecture and Bloc.
+
