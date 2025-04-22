@@ -1,0 +1,11 @@
+Made banner image in the HomeScreen auto scrollable.
+Added Images to Fire Store - 
+        Vegetables 
+        Dairy
+        Oil and Ghee
+        Snacks
+        Cookies
+        Personal Care
+        Egg and Meat
+        Fruits
+Added Functionality to Bottom Navigation

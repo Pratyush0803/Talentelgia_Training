@@ -1,0 +1,5 @@
+Started making Category screen for  E-Commerce Application.
+
+Added Category images to firestore.
+
+Made Admin App To upload product details to firestore.
