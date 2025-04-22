@@ -1,0 +1,43 @@
+Day 1:
+
+Made the banner image on the Home Screen auto-scrollable.
+
+Added images to Firestore:
+
+Vegetables
+
+Dairy
+
+Oil and Ghee
+
+Snacks
+
+Cookies
+
+Personal Care
+
+Eggs and Meat
+
+Fruits
+
+Added functionality to the Bottom Navigation.
+
+Day 2:
+
+Started working on the Category screen for the E-Commerce application.
+
+Added category images to Firestore.
+
+Created an Admin App to upload product details to Firestore.
+
+Day 3:
+
+Worked on the Admin Page.
+
+Day 4:
+
+Continued working on the Admin Page.
+
+Day 5:
+
+Worked on the Admin Page of the E-Commerce App.
